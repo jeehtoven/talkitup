@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+<channel>
+
+<title>Well Lived Negroes</title>
+
+<link>http://jeehtoven.com/WLN</link>
+
+<language>en-us</language>
+
+<copyright>&#x2117; &amp; &#xA9; 2016 Well Lived Negroes</copyright>
+
+<itunes:subtitle>A group of friends discussing the well-lived lifestyle.</itunes:subtitle>
+
+<itunes:author>Colin Williams, Kamal Barney, and Jason Banks</itunes:author>
+
+<itunes:summary>Well Lived Negroes is a show about living a life well. Each week we dive into any subject known to man and talk about it as much as we can. Look for our podcast in the Podcasts app or in the iTunes Store.</itunes:summary>
+
+<description>Well Lived Negroes is a show about living a life well. Each week we dive into any subject known to man and talk about it as much as we can. Look for our podcast in the Podcasts app or in the iTunes Store.</description>
+
+<itunes:owner>
+
+<itunes:name>Jason Banks</itunes:name>
+
+<itunes:email>superengineerbanks@gmail.com</itunes:email>
+
+</itunes:owner>
+
+<itunes:image href="http://jtunes.jeehtoven.com/WLN/wln_logo.jpg" />
+
+<itunes:category text="Society &amp; Culture">
+
+<itunes:category text="Personal Journals"/>
+
+</itunes:category>
+
+<itunes:category text="TV &amp; Film"/>
+
+<itunes:explicit>yes</itunes:explicit>
+
+<item>
+
+<title>Episode 1: Introduction</title>
+
+<itunes:author>Colin Williams, Kamal Barney, and Jason Banks</itunes:author>
+
+<itunes:subtitle>An introduction to what the Well Lived Negroes are all about.</itunes:subtitle>
+
+<itunes:summary>This week we give an introduction, talk about Drake, Future, and Super Bowl 50.</itunes:summary>
+
+<itunes:image href="http://jtunes.jeehtoven.com/WLN/wln_logo.jpg" />
+
+<enclosure url="http://jtunes.jeehtoven.com/WLN/wln1.mp3" type="audio/x-m4a" />
+
+<guid>http://jeehtoven.com/WLN/wln1.mp3</guid>
+
+<pubDate>Fri, February 4, 2016 12:00:00 GMT</pubDate>
+
+<itunes:duration>1:14:19</itunes:duration>
+
+<itunes:explicit>yes</itunes:explicit>
+
+</item>
+
+<item>
+
+<title>Episode 2: Politics as Usual</title>
+
+<itunes:author>Colin Williams, Kamal Barney, and Jason Banks</itunes:author>
+
+<itunes:subtitle>A discussion that goes deep into politics.</itunes:subtitle>
+
+<itunes:summary>In this episode, we talk about politics, All Star Weekend, and Valentine's Day.</itunes:summary>
+
+<itunes:image href="http://jtunes.jeehtoven.com/WLN/wln_logo.jpg" />
+
+<enclosure url="http://jtunes.jeehtoven.com/WLN/wln2.mp3" type="audio/x-m4a" />
+
+<guid>http://jeehtoven.com/WLN/wln2.mp3</guid>
+
+<pubDate>Tues, February 16, 2016 12:00:00 GMT</pubDate>
+
+<itunes:duration>1:00:17</itunes:duration>
+
+<itunes:explicit>yes</itunes:explicit>
+
+</item>
+
+<item>
+
+<title>Episode 3: #OscarsSoBlack</title>
+
+<itunes:author>Colin Williams, Kamal Barney, and Jason Banks</itunes:author>
+
+<itunes:subtitle>Our discussion regarding the Oscars.</itunes:subtitle>
+
+<itunes:summary>This week, we discuss the Academy Awards, Sampling in Hip Hop, and Texas.</itunes:summary>
+
+<itunes:image href="http://jtunes.jeehtoven.com/WLN/wln_logo.jpg" />
+
+<enclosure url="http://jtunes.jeehtoven.com/WLN/wln3.mp3" type="audio/x-m4a" />
+
+<guid>http://jeehtoven.com/WLN/wln3.mp3</guid>
+
+<pubDate>Tues, March 1, 2016 12:00:00 GMT</pubDate>
+
+<itunes:duration>1:03:21</itunes:duration>
+
+<itunes:explicit>yes</itunes:explicit>
+
+</item>
+
+<item>
+
+<title>Episode 4: Find Your Love</title>
+
+<itunes:author>Colin Williams, Kamal Barney, and Jason Banks</itunes:author>
+
+<itunes:subtitle>Our discussion is all about online dating.</itunes:subtitle>
+
+<itunes:summary>This week, we discuss Donald Trump, Collegrove, and Internet Dating.</itunes:summary>
+
+<itunes:image href="http://jtunes.jeehtoven.com/WLN/wln_logo.jpg" />
+
+<enclosure url="http://jtunes.jeehtoven.com/WLN/wln4.mp3" type="audio/x-m4a" />
+
+<guid>http://jeehtoven.com/WLN/wln4.mp3</guid>
+
+<pubDate>Tues, March 14, 2016 12:00:00 GMT</pubDate>
+
+<itunes:duration>1:01:25</itunes:duration>
+
+<itunes:explicit>yes</itunes:explicit>
+
+</item>
+
+<item>
+
+<title>Episode 5: Jimmy Joins the Show</title>
+
+<itunes:author>Colin Williams, Kamal Barney, and Jason Banks</itunes:author>
+
+<itunes:subtitle>Jimmy's our special guest, and we get into mentoring, television, and James Brown.</itunes:subtitle>
+
+<itunes:summary>This episode we give talk about mentors, upcoming television shows, and James Brown vs. Future.</itunes:summary>
+
+<itunes:image href="http://jtunes.jeehtoven.com/WLN/wln_logo.jpg" />
+
+<enclosure url="http://jtunes.jeehtoven.com/WLN/wln5.mp3" type="audio/x-m4a" />
+
+<guid>http://jeehtoven.com/WLN/wln5.mp3</guid>
+
+<pubDate>Fri, March 25, 2016 12:00:00 GMT</pubDate>
+
+<itunes:duration>1:12:05</itunes:duration>
+
+<itunes:explicit>yes</itunes:explicit>
+
+</item>
+
+<item>
+
+<title>Episode 6: Autism Awareness Month</title>
+
+<itunes:author>Colin Williams, Kamal Barney, and Jason Banks</itunes:author>
+
+<itunes:subtitle>It's all about Autism Awareness Month in this episode.</itunes:subtitle>
+
+<itunes:summary>This week we discuss the SnapChat incident with the Lakers, Autism Awareness Month, and Superman vs. Batman.</itunes:summary>
+
+<itunes:image href="http://jtunes.jeehtoven.com/WLN/wln_logo_aa.jpg" />
+
+<enclosure url="http://jtunes.jeehtoven.com/WLN/wln6.mp3" type="audio/x-m4a" />
+
+<guid>http://jeehtoven.com/WLN/wln6.mp3</guid>
+
+<pubDate>Sat, April 3, 2016 12:00:00 GMT</pubDate>
+
+<itunes:duration>1:09:05</itunes:duration>
+
+<itunes:explicit>yes</itunes:explicit>
+
+</item>
+
+<item>
+
+<title>Episode 7: Warm It Up, Chris!</title>
+
+<itunes:author>Colin Williams, Kamal Barney, and Jason Banks</itunes:author>
+
+<itunes:subtitle>Chris joins the show.</itunes:subtitle>
+
+<itunes:summary>This week we discuss College Basketball, Drake's new music, and the Caucasian t-shirt.</itunes:summary>
+
+<itunes:image href="http://jtunes.jeehtoven.com/WLN/wln_logo.jpg" />
+
+<enclosure url="http://jtunes.jeehtoven.com/WLN/wln7.mp3" type="audio/x-m4a" />
+
+<guid>http://jeehtoven.com/WLN/wln7.mp3</guid>
+
+<pubDate>Sat, April 9, 2016 11:00:00 GMT</pubDate>
+
+<itunes:duration>1:23:05</itunes:duration>
+
+<itunes:explicit>yes</itunes:explicit>
+</item>
+
+<item>
+<title>jason</title>
+<itunes:author>jason</itunes:author>
+<itunes:subtitle>jason</itunes:subtitle>
+<itunes:summary>jason</itunes:summary>
+<itunes:image href='http://jeehtoven.com/talkitup/560.png'/>
+<enclosure url='http://jeehtoven.com/talkitup/560.png' type='audio/x-m4a' />
+<guid>http://jeehtoven.com/talkitup/560.png</guid>
+<pubDate>05/14/2016 03:00:13 pm</pubDate>
+<itunes:duration>1:00</itunes:duration>
+<itunes:explicit>yes</itunes:explicit>
+</item>
+</channel>
+</rss>
